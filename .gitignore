@@ -5,6 +5,7 @@
 .metadata
 bin/
 tmp/
+build/
 
 #############
 ## Windows detritus
